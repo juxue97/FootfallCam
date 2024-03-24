@@ -1,0 +1,44 @@
+ - Vision - 
+1. Identify which frames in the clip have the staff present?
+2. [Bonus] Locate the staff xy coordinates when present in the clip.
+
+ - Mission / Milestones - 
+1. ScreenTracking (done)
+    1.1 Draw a boundary line on the corridor (decision boundary, line_y) (done)
+    1.2 Consider a ROI where those object within that defined region will be detected (done) 
+        - img cropping for roi image = image[height,width]
+        - Up Dir => enter
+        - Down Dir => exit
+
+2. Object Detect (Ultralytic YOLO-V8)
+    - enter => count +1, exit => count -1
+    condition : 
+    if curr_obj_y < line_y - offset & flag == out:
+        counter +1
+        flag=in
+    elif curr_obj_y > line_y + offset & flag == in:
+        counter-1
+        flag=out
+
+    2.1 Counter without tag, assume not worker right now (counter changed as they crossed the decision boundary)
+    2.2 Counter with tag, there is a worker with the tag (counter not affected)
+    
+    2.3 Training Process ******* Do this first tomorrow ********
+        -   take screenshots from the videos
+        -   perform data augmentation if needed
+        -   image segmentation (labelling)
+
+3. More to go?
+    - report
+
+
+Things to consider:
+a. performance (fps) - main fps, ss fps,model fps
+b. accuracy, fp (we do not wan to miss anything moving in/out)
+
+c. low cost, easy to manage, smooth run
+    (use opencv haar cascade model for tag)
+    (use pretrained yolo model for detecting human)
+    *crop roi
+    *gaussian blur
+    *grayscale 
