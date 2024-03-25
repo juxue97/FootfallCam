@@ -30,7 +30,7 @@
   <img src="https://github.com/juxue97/FootfallCam/assets/122148337/ac5ba515-f9da-495d-9e96-1b43ffc919e2" alt="plot_obj" width="300" height="200">     
   
 
-- In addition, in the code of main.py, look for parameter "window_name", type in your video player window's name, for example I used Media Player to open the video. so window_name = 'Media Player'.
+- In addition, in the code of main.py, look for parameter "window_name", type in your video player window's name, for example I used Media Player to open the video, so window_name = 'Media Player'.
   
   <img src="https://github.com/juxue97/FootfallCam/assets/122148337/dc6058ff-894e-49f6-a645-afb6c0317029" alt="window_name" width="300" height="200">     
   
