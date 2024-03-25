@@ -16,11 +16,11 @@
 -  Some of the model performance metrics and information after training is completed:    
       - training batch image & labels information
     
-    !<img src="https://github.com/juxue97/FootfallCam/assets/122148337/cd64824f-ddee-4649-b34f-2e827187ccbb" alt="training_batch" width="300" height="200"> !<img src="https://github.com/juxue97/FootfallCam/assets/122148337/41a8ff2d-59fd-42d6-9c50-541cd3dd1b83" alt="labels" width="300" height="200">
+    <img src="https://github.com/juxue97/FootfallCam/assets/122148337/cd64824f-ddee-4649-b34f-2e827187ccbb" alt="training_batch" width="300" height="200"> <img src="https://github.com/juxue97/FootfallCam/assets/122148337/41a8ff2d-59fd-42d6-9c50-541cd3dd1b83" alt="labels" width="300" height="200">
    
       - confusion matrix & f1-confidence curve
     
-    !<img src="https://github.com/juxue97/FootfallCam/assets/122148337/16f10950-08ab-4c50-920e-0ca7a2ab8236" alt="confusion_matrix" width="300" height="200"> !<img src="https://github.com/juxue97/FootfallCam/assets/122148337/1bba81bb-9bfa-4bc0-9b51-36d1f2fded19" alt="f1_curve" width="300" height="200">
+    <img src="https://github.com/juxue97/FootfallCam/assets/122148337/16f10950-08ab-4c50-920e-0ca7a2ab8236" alt="confusion_matrix" width="300" height="200"> <img src="https://github.com/juxue97/FootfallCam/assets/122148337/1bba81bb-9bfa-4bc0-9b51-36d1f2fded19" alt="f1_curve" width="300" height="200">
    
 
 ***
