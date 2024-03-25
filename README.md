@@ -1,7 +1,7 @@
 # FootfallCam
 1. Title: Object Detection using YOLO_V8 Model
 - dataset link (https://drive.google.com/file/d/1V3nug3Ofc08mPy7OElWfil_twr1k1hp7/view?usp=sharing)
-- 
+
     
 ***
 2. Data Collection/Generation (code link : https://colab.research.google.com/drive/1N5t2dPxPgk_TX3zrzc0LMlEU7-4TA3bg)
