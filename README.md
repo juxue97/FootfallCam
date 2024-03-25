@@ -8,3 +8,4 @@ Object Detection using YOLO_V8 Model
  
 <img src="https://github.com/juxue97/FootfallCam/assets/122148337/0f28fb09-5b7f-4436-8f89-dee06dd00378" alt="Description of your image" width="300" height="200">
 
+
