@@ -42,7 +42,7 @@ class Model:
         # create a thread lock object
         self.lock = Lock()
 
-        self.model=YOLO('best_4.pt')
+        self.model=YOLO('best_4.pt') # load your trained model here
         self.frame=frame
         self.tracker = Tracker()
 
