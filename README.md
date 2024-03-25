@@ -6,6 +6,6 @@ Object Detection using YOLO_V8 Model
 
 3. 
  
-<img src="https://github.com/juxue97/FootfallCam/assets/122148337/0f28fb09-5b7f-4436-8f89-dee06dd00378" alt="Description of your image" width="300" height="200">
+<img src="https://github.com/juxue97/FootfallCam/assets/122148337/48abb414-bea2-4dd7-9c5b-4c0050a89c32" alt="Description of your image" width="300" height="200">
 
 
