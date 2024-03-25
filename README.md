@@ -14,7 +14,7 @@
 3. Model Training (code link : https://colab.research.google.com/drive/1wi18CjorSLyqkAPOuL-7G7L0tA2cyH4K)
 -  Pretrained Ultralytics Yolo-V8 model is selected for this project
 -  Some of the model performance metrics and information after training is completed:    
-      - training batch image & labels information
+      - training batch image & label information
     
     <img src="https://github.com/juxue97/FootfallCam/assets/122148337/cd64824f-ddee-4649-b34f-2e827187ccbb" alt="training_batch" width="300" height="200"> <img src="https://github.com/juxue97/FootfallCam/assets/122148337/41a8ff2d-59fd-42d6-9c50-541cd3dd1b83" alt="labels" width="300" height="200">
    
