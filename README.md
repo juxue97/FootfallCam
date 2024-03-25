@@ -6,7 +6,7 @@
 - Data was labelled using free tools on Roboflow platform
 - Besides, the dataset was set to undergoes some image preprocessing steps, such as Auto-orient, static crop, resize, grayscale, gaussian blur.
 - Data augmentation was then performed (1215 -> 3043)
-Example of the label image: 0: person, 1: tag
+- Example of the label image:
 <img src="https://github.com/juxue97/FootfallCam/assets/122148337/00aa6788-0649-4bba-a124-77bd3101a75e" alt="Description of your image" width="300" height="200">
 
 3. Model Training (code link : https://colab.research.google.com/drive/1wi18CjorSLyqkAPOuL-7G7L0tA2cyH4K)
