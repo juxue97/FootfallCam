@@ -27,18 +27,23 @@
 4. Deploy
 - Adjust the code in main.py for different visualization types. (Set DEBUG=TRUE and look for plot_obj() in the main loop)
   
-  <img src="https://github.com/juxue97/FootfallCam/assets/122148337/ac5ba515-f9da-495d-9e96-1b43ffc919e2" alt="plot_obj" width="300" height="200">   
+  <img src="https://github.com/juxue97/FootfallCam/assets/122148337/ac5ba515-f9da-495d-9e96-1b43ffc919e2" alt="plot_obj" width="300" height="200">     
+  
 
+- In addition, in the code of main.py, look for parameter "window_name", type in your video player window's name, for example I used Media Player to open the video. so window_name = 'Media Player'.
+  
+  <img src="https://github.com/juxue97/FootfallCam/assets/122148337/dc6058ff-894e-49f6-a645-afb6c0317029" alt="window_name" width="300" height="200">     
+  
 
 ***
 5. Results: 
     - Mode = 3 (default) [rectangle]
       
-      <img src="https://github.com/juxue97/FootfallCam/assets/122148337/48abb414-bea2-4dd7-9c5b-4c0050a89c32" alt="Description of your image" width="300" height="200">
+      <img src="https://github.com/juxue97/FootfallCam/assets/122148337/48abb414-bea2-4dd7-9c5b-4c0050a89c32" alt="rect" width="300" height="200">
 
     - Mode = 1 & 2 [circle]
       
-      <img src="https://github.com/juxue97/FootfallCam/assets/122148337/38307d48-75f7-41a4-9d26-07c2a2882f78" alt="Description of your image" width="300" height="200">
+      <img src="https://github.com/juxue97/FootfallCam/assets/122148337/38307d48-75f7-41a4-9d26-07c2a2882f78" alt="circle" width="300" height="200">
 
 ***
 
